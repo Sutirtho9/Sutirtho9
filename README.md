@@ -45,10 +45,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Sutirtho9/Sutirtho9/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Sutirtho9.Sutirtho9&left_color=blue&right_color=greenyellow"  />
 </div>
